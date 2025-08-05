@@ -141,12 +141,12 @@
                                 </a>
                             </div>
                             <div class="col-md-6 mb-3">
-                                <button class="btn btn-warning w-100" disabled>
+                                <button class="btn btn-warning w-100" onclick="alert('Fitur Kelola Menu akan segera tersedia!')">
                                     <i class="fas fa-utensils me-2"></i>Kelola Menu
                                 </button>
                             </div>
                             <div class="col-md-6 mb-3">
-                                <button class="btn btn-success w-100" disabled>
+                                <button class="btn btn-success w-100" onclick="alert('Fitur Laporan akan segera tersedia!')">
                                     <i class="fas fa-chart-line me-2"></i>Laporan
                                 </button>
                             </div>

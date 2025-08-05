@@ -108,16 +108,16 @@
                     </div>
                     <div class="card-body">
                         <div class="d-grid gap-2">
-                            <button class="btn btn-primary" disabled>
+                            <button class="btn btn-primary" onclick="alert('Fitur Transaksi Baru akan segera tersedia!')">
                                 <i class="fas fa-plus me-2"></i>Transaksi Baru
                             </button>
-                            <button class="btn btn-info" disabled>
+                            <button class="btn btn-info" onclick="alert('Fitur Lihat Pesanan akan segera tersedia!')">
                                 <i class="fas fa-list me-2"></i>Lihat Pesanan
                             </button>
-                            <button class="btn btn-warning" disabled>
+                            <button class="btn btn-warning" onclick="alert('Fitur Kelola Menu akan segera tersedia!')">
                                 <i class="fas fa-utensils me-2"></i>Kelola Menu
                             </button>
-                            <button class="btn btn-success" disabled>
+                            <button class="btn btn-success" onclick="alert('Fitur Laporan Harian akan segera tersedia!')">
                                 <i class="fas fa-chart-bar me-2"></i>Laporan Harian
                             </button>
                         </div>

@@ -111,7 +111,7 @@
                             <i class="fas fa-utensils fa-3x mb-3"></i>
                             <h5>Menu Akan Segera Tersedia</h5>
                             <p>Kami sedang menyiapkan menu lezat untuk Anda</p>
-                            <button class="btn btn-success" disabled>
+                            <button class="btn btn-success" onclick="alert('Menu akan segera tersedia! Silakan tunggu update selanjutnya.')">
                                 <i class="fas fa-eye me-2"></i>Lihat Menu
                             </button>
                         </div>
@@ -139,16 +139,16 @@
                     </div>
                     <div class="card-body">
                         <div class="d-grid gap-2">
-                            <button class="btn btn-outline-primary" disabled>
+                            <button class="btn btn-outline-primary" onclick="alert('Fitur Edit Profil akan segera tersedia!')">
                                 <i class="fas fa-user-edit me-2"></i>Edit Profil
                             </button>
-                            <button class="btn btn-outline-info" disabled>
+                            <button class="btn btn-outline-info" onclick="alert('Fitur Alamat Pengiriman akan segera tersedia!')">
                                 <i class="fas fa-map-marker-alt me-2"></i>Alamat Pengiriman
                             </button>
-                            <button class="btn btn-outline-warning" disabled>
+                            <button class="btn btn-outline-warning" onclick="alert('Fitur Metode Pembayaran akan segera tersedia!')">
                                 <i class="fas fa-credit-card me-2"></i>Metode Pembayaran
                             </button>
-                            <button class="btn btn-outline-success" disabled>
+                            <button class="btn btn-outline-success" onclick="alert('Program Loyalitas akan segera tersedia!')">
                                 <i class="fas fa-star me-2"></i>Program Loyalitas
                             </button>
                         </div>
@@ -178,10 +178,10 @@
                     <div class="card-body">
                         <p class="card-text">Butuh bantuan? Hubungi kami:</p>
                         <div class="d-grid gap-2">
-                            <button class="btn btn-outline-primary btn-sm" disabled>
+                            <button class="btn btn-outline-primary btn-sm" onclick="alert('Live Chat akan segera tersedia!')">
                                 <i class="fas fa-comments me-2"></i>Live Chat
                             </button>
-                            <button class="btn btn-outline-success btn-sm" disabled>
+                            <button class="btn btn-outline-success btn-sm" onclick="alert('WhatsApp Support akan segera tersedia!')">
                                 <i class="fab fa-whatsapp me-2"></i>WhatsApp
                             </button>
                         </div>
